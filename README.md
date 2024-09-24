@@ -1,6 +1,15 @@
 # Chen_R_Dang_K_HW1
 Rachel and Ky's Homework 1 Assignment
 
+
+Rachel Chen
+
+About Me:
+- 18 Years Old
+- From Ottawa
+- Hobbies: Drawing, Video games
+- Likes: Chips, Music
+
 Ky Dang
 
 About Me:
@@ -12,5 +21,3 @@ About Me:
 - Hobbies: Coding, Video games
     - Favourite coding language: Python
     - Favourite video game: Oldschool RuneScape
-
-
