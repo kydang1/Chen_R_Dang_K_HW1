@@ -10,7 +10,7 @@ About Me:
 - Likes: Chips, Music
 
 Ky Dang
-![Cool image I like](altezza.png "Altezza Pic")
+![Cool image I like](images/altezza.png "Altezza Pic")
 About Me:
 - 26 Years Old
 - Likes: Cars, Music, F1
