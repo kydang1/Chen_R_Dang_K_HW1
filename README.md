@@ -9,8 +9,14 @@ About Me:
 - Hobbies: Drawing, Video games
 - Likes: Chips, Music
 
-Ky Dang
-![Cool image I like](images/altezza.png "Altezza Pic")
+<h3 align="center">
+     Ky Dang
+</h3>
+<p align="center"> 
+    <img src= ./images/altezza.png alt="cool image I like" width="350" height="350"/> 
+</p>
+
+
 About Me:
 - 26 Years Old
 - Likes: Cars, Music, F1
