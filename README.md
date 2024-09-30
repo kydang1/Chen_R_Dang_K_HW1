@@ -3,6 +3,8 @@ Rachel and Ky's Homework 1 Assignment
 
 Rachel Chen
 
+![picture of a bear](./images/bear.png "Bear")
+
 About Me:
 - 18 Years Old
 - From Ottawa
