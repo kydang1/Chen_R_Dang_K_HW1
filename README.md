@@ -1,12 +1,8 @@
 # Chen_R_Dang_K_HW1
 Rachel and Ky's Homework 1 Assignment
 
-<h3 align="center">
-     Ky Dang
-</h3>
-<p align="center"> 
-    <img src= ./images/altezza.png alt="cool image I like" width="350" height="350"/> 
-</p>
+Ky Dang
+![Cool image I like](altezza.png "Altezza Pic")
 
 About Me:
 - 26 Years Old
